@@ -1,12 +1,14 @@
 // TODO
 
 .alizarin_crimson{
+  color: #E32636;
 }
 
 .bright_red{
 }
 
 .cadmium_yellow{
+  color: #FFF600;
 }
 
 .dark_sienna{
@@ -19,16 +21,19 @@
 }
 
 .phthalo_blue{
+  color: #000F89;
 }
 
 .phthalo_green{
+  color: #123524;
 }
 
 .prussian_blue{
-  color: #000f89;
+ color: #003153; 
 }
 
 .sap_green{
+  color: #507D2A;
 }
 
 .titanium_white{
@@ -38,4 +43,5 @@
 }
 
 .yellow_ochre{
+  color: #F5C52C;
 }
