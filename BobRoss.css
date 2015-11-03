@@ -1,10 +1,9 @@
-// TODO
-
 .alizarin_crimson{
   color: #E32636;
 }
 
 .bright_red{
+  color: #ED1C29;
 }
 
 .cadmium_yellow{
@@ -12,12 +11,15 @@
 }
 
 .dark_sienna{
+  color: #3C1414;
 }
 
 .indian_yellow{
+  color: #E3A857;
 }
 
 .midnight_black{
+  color: #262626;
 }
 
 .phthalo_blue{
@@ -37,11 +39,20 @@
 }
 
 .titanium_white{
+  color: #B4B2A7;
 }
 
 .van_dyke_brown{
+  color: #4A4742;
 }
 
 .yellow_ochre{
   color: #F5C52C;
+}
+
+
+
+/* extras */
+.happy_little_things::after{
+  content: " :) ";
 }
