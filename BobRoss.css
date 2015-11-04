@@ -6,6 +6,10 @@
   color: #ED1C29;
 }
 
+.burnt_umber{
+  color: ¤8A3324;
+}
+
 .cadmium_yellow{
   color: #FFF600;
 }
@@ -20,6 +24,10 @@
 
 .midnight_black{
   color: #262626;
+}
+
+.permanent_red{
+  color: #742C1E;
 }
 
 .phthalo_blue{
@@ -38,6 +46,14 @@
   color: #507D2A;
 }
 
+.thalo_blue{
+  color: #000F89; /* same as phthalo_blue? */
+}
+
+.thalo_green{
+  color: #2B5C0B;
+}
+
 .titanium_white{
   color: #B4B2A7;
 }
@@ -53,6 +69,6 @@
 
 
 /* extras */
-.happy_little_things::after{
+.happy_little_thing::after{
   content: " :) ";
 }
